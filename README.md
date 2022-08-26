@@ -10,4 +10,4 @@
 |4주차|Word2Vec 속도 개선: GloVe, FastText, RNN|GloVe를 활용한 공손함 분류|
 |5주차|LSTM, GRU, Seq2Seq|네이버 쇼핑 감성분류|
 |6주차|Attention, Transformer|트랜스포머를 활용한 한국어 챗봇|
-|7주차|BERT, GPT| |
+|7주차|BERT, GPT|KoBERT를 활용한 자연어 추론|
