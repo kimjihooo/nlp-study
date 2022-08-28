@@ -31,7 +31,7 @@
 - 추출요약 모델 : KoBART, Textrank
 - 생성요약 모델 : KoBART, KoBertshared, KoBertSum
 
--> 가장 성능이 좋았던 KoBART가 최종 모델
+-> 가장 성능이 좋았던 **KoBART**가 최종 모델
 
 <br/>
 
